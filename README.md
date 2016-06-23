@@ -1,2 +1,3 @@
-# buddhas_bug_free_blessing
+# Buddha's Bug Free Blessing.
 Buddhas Blessing as comment. May your code be bug free.
+
